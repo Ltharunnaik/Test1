@@ -1,0 +1,88 @@
+package example.com;
+import java.util.Scanner;
+public class example {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+//		int number =10;
+//		int number1 = 20;
+//		int number2 = 30;
+//		int sum = number2 + number - number1;
+//		System.out.println(" \n sum = " + sum);
+//		System.out.println(sum);
+		
+//		char ch = '5';
+//		char cj = '9';
+//		char ts = '3';		
+//		System.out.println( +ch + cj+ ts);
+		
+//		char firstLetter = 'A';
+//		char secondLetter = 'B';
+//		System.out.println(firstLetter < secondLetter);
+		
+//		char myGrade = '9';
+//	    char tharun = '1';
+//	    System.out.println(myGrade- tharun);
+//	    
+//	    String arun = "2345678";
+//	    		 String greting = "Hello";
+//	    		 String s =  "arun+ greting";
+//	    		 String greeting = "Hello";
+//	    		    System.out.println(greeting);
+//	    System.out.println("\n s = " + s);
+	    
+//		String name1 = " I am";
+//	    String name = "supraja" ;
+//	   
+//	   
+//	    System.out.println(name1);
+//	    System.out.println(name);
+//	    
+//	    int number = 20;
+//	    int number1 = 10;
+//	    int sum = number - number1;
+//	    System.out.println ("\n sum =" + sum);
+	    
+	    
+//	    int n = 15;
+//	    int n1 = 7;
+////	    int n2 = 27
+//	    int sum1 =  n% n1 ;
+//	    System.out.println(sum1);
+	    
+//	    int n1= 8 ;
+//	    int n2 = 5 ;
+//	    int t ;
+//	    System.out.println(" Original values");
+//	    System.out.println("First number " + n1);
+//	    System.out.println("Second number"+ n2 );
+//	     t = n1; // t = 8;
+//	     n1 = n2; // n1 = 5;
+//	     n2 = t ; // n2 = 8
+//	     System.out.println(" After swapping");
+//		    System.out.println("First number " + n1);
+//		    System.out.println("Second number"+ n2 );
+	     
+//		Scanner myObj = new Scanner(System.in);
+//		System.out.println("Enter the string");
+//		int n=myObj.nextInt();
+//	    
+//	    System.out.println("The Result :"+ n);
+		
+		
+		
+	
+    int num1 = 342;
+    int num2 = 234;
+    if( num1> num2) {
+    	System.out.println(num1 +"is greater than"+ num2);
+    }
+    else if ( num1 < num2) {
+    	System.out.println(num1 +" is less than"+ num2);
+    }
+    else   {
+    	System.out.println(num1 +" is  equal to  "+num2);
+    
+
+}
